@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+body {
+
+ 	background-image: url(/img/bg.jpg);
+background-size: cover;
+ 
+
+}
+
+
+.card{
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+
+form{
+	margin-top: 15px;
+}
+
+
+
+
